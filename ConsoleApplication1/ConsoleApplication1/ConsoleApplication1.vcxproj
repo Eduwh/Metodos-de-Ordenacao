@@ -153,7 +153,11 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="BubbleSort.cpp" />
+    <ClCompile Include="HeapSort.cpp" />
+    <ClCompile Include="MergeSort.cpp" />
     <ClCompile Include="QuickSort.cpp" />
+    <ClCompile Include="SelectionSort.cpp" />
+    <ClCompile Include="ShellSort.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
